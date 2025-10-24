@@ -2,7 +2,7 @@
 
 **Aspiring AI & Full Stack Developer | 1st Year Engineering Student**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhanushshenoy.dev-blue)](https://dhanushshenoy.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhanushshenoy.dev-blue)](https://dhanushshenoyh.vercel.app)
 [![Email](https://img.shields.io/badge/Email-dshenoyh@gmail.com-red)](mailto:dshenoyh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhanush-shenoy-h)
 
@@ -39,7 +39,7 @@
 
 - **AI-Chef Recipe Generator:** Create recipes using AI (Hugging Face)
 - **Travel Journal (React):** Dynamic digital travel journal
-- **Portfolio Website:** [dhanushshenoy.dev](https://dhanushshenoy.dev)
+- **Portfolio Website:** [dhanushshenoy.dev](https://dhanushshenoyh.vercel.app)
 - **AgroNova:** Farmer assistant app *(Hackathon Winner)*
 - **Python Task Automator:** Personal workflow scripts
 - **Ultimate n8n Assistant:** Visual workflow automation
